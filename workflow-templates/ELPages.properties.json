@@ -1,13 +1,4 @@
 {
     "name": "ELPages",
     "description": "Sets up a front for our projects using jupyterbook and github pages",
-    "iconName": "octicon project-roadmap",
-    "categories": [
-        "Pages"
-    ],
-    "filePatterns": [
-        ".*\\.md$",
-        ".*\\.txt$",
-        ".*\\.ipynb$",
-    ]
 }
