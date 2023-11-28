@@ -3,7 +3,7 @@
     "description": "Elderlab Pages Automated CI/CD",
     "iconName": "octicon project-roadmap",
     "categories": [
-        "Go"
+        "Deployment"
     ],
     "filePatterns": [
         "package.json$",
