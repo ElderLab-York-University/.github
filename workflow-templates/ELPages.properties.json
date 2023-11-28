@@ -1,4 +1,4 @@
-{
+E{
     "name": "Pages",
     "description": "Sets up a front for our projects using jupyterbook and github pages",
     "iconName": "octicon project-roadmap",
