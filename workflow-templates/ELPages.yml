@@ -1,4 +1,4 @@
-name: Page
+name: ELPage
 run-name: ${{ github.actor }} initializing Pages 
 on: 
   workflow_dispatch:
