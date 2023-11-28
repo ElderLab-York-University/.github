@@ -1,7 +1,7 @@
 {
     "name": "Elderlab Pages Workflow",
     "description": "Elderlab Pages Automated CI/CD",
-    "iconName": "example-icon",
+    "iconName": "octicon project-roadmap",
     "categories": [
         "Go"
     ],
