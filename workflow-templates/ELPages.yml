@@ -1,4 +1,4 @@
-name: Pages
+name: Page
 run-name: ${{ github.actor }} initializing Pages 
 on: 
   workflow_dispatch:
