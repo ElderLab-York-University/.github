@@ -1,6 +1,6 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI starter workflow.",
+    "name": "Elderlab Pages Workflow",
+    "description": "Elderlab Pages Automated CI/CD",
     "iconName": "example-icon",
     "categories": [
         "Go"
